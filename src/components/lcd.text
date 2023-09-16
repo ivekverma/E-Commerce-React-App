@@ -1,0 +1,352 @@
+
+
+
+{
+    "image":"https://m.media-amazon.com/images/I/71cGNrDjoxL._SX522_.jpg",
+"description":"LG - 20M39A 19.5 Inch (49.53 Cm) Hd 1366 X 768 Pixels Tn Panel LCD Monitor with Vga Port, Wall Mount, 3 Year Warranty - Black (Not A Tv)",
+"actual_price":"9600",
+"discount_price":"5584",
+"discount":"-42",
+"brand":"LG",
+"name":"21SP670M",
+"resolution":"1366x768 Pixels",
+"search_resolution":"720",
+"size":"19.5",
+"refresh_rate":"60Hz",
+"category":"lcd"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/712KyXnLbTL._SX522_.jpg",
+"description":"LG 32 inches Full HD LCD (1920 x 1080) TV Monitor (Inbuilt Speaker, Remote Control, USB Plug & Play, HDMI x 2, USB Port, Wall Mount), 32SP510M, Black",
+"actual_price":"25000",
+"discount_price":"14195",
+"discount":"-43",
+"brand":"LG",
+"name":"32SP510M",
+"resolution":"1080p",
+"search_resolution":"1080",
+"size":"32",
+"refresh_rate":"75Hz",
+"category":"lcd"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/81TXZ446zZL._SX522_.jpg",
+"description":"LG 60 cm/24 inches Full HD IPS 1920 x 1080 Pixels LCD Monitor, Inbuilt Speaker, HDMI x 2, VGA Port, 75 Hz Refresh Rate, AMD Freesync, 3 Side Borderless Slim Design - 24ML600S-W (White)",
+"actual_price":"18000",
+"discount_price":"9999",
+"discount":"-44",
+"brand":"LG",
+"name":"34MN540P",
+"resolution":"1920x1080 Pixels",
+"search_resolution":"1080",
+"size":"23.8",
+"refresh_rate":"75Hz",
+"category":"lcd"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/71NlDkGEQSL._SX522_.jpg",
+"description":"LG Ultra-Gear 24 inches(60cm) 1920 x 1080 Pixels 144Hz, Native 1ms Full HD LCD Gaming Monitor with Radeon Free-sync TN Panel with Display Port, HDMI, Height Adjust Stand - 24GL650F (Black)",
+"actual_price":"45000",
+"discount_price":"37999",
+"discount":"-16",
+"brand":"LG",
+"name":"20JK550L",
+"resolution":"1920x1080 Pixels",
+"search_resolution":"1080",
+"size":"24",
+"refresh_rate":"144Hz",
+"category":"lcd"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/81B4-oU64PL._SX679_.jpg",
+"description":"Samsung 32-inch(80cm) LCD M5 FHD Smart Monitor, Mouse & Keyboard Control, Smart TV apps, IoT Hub, Office 365, Apple Airplay, Dex, Speakers, Remote, Bluetooth (LS32CM501EWXXL, White)",
+"actual_price":"36500",
+"discount_price":"21199",
+"discount":"-42",
+"brand":"Samsung",
+"name":"SAM4563GHJ87OL",
+"resolution":"1920x1080 Pixels",
+"search_resolution":"1080",
+"size":"32",
+"refresh_rate":"60Hz",
+"category":"lcd"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/81B4-oU64PL._SX679_.jpg",
+"description":"Samsung 27-inch(68.58cm) LCD M5 FHD Smart Monitor, Mouse & Keyboard Control, Smart TV apps, IoT Hub, Office 365, Apple Airplay, Dex, Speakers, Remote, Bluetooth (LS27CM501EWXXL, White)",
+"actual_price":"34000",
+"discount_price":"18799",
+"discount":"-45",
+"brand":"Samsung",
+"name":"SAM678HN980LK",
+"resolution":"1920x1080 Pixels",
+"search_resolution":"1080",
+"size":"27",
+"refresh_rate":"144Hz",
+"category":"lcd"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/81JNAFOB3lL._SX679_.jpg",
+"description":"Samsung 22-inch(54.48cm) FHD Flat Monitor, VA, 60 Hz, Wide View Angle, 3000:1 Contrast Ratio, HDMI, D-sub Ports, Flicker Free, Game Mode 1920 x 1080 Pixel,LCD, Black",
+"actual_price":"14430",
+"discount_price":"7549",
+"discount":"-48",
+"brand":"Samsung",
+"name":"U764HGBN65JHKL",
+"resolution":"1920x1080 Pixels",
+"search_resolution":"1080",
+"size":"22",
+"refresh_rate":"60Hz",
+"category":"lcd"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/71eUw15rVbL._SX522_.jpg",
+"description":"Samsung 108 cm (43 inches) Crystal 4K Series Ultra HD Smart LED TV UA43AUE60AKLXL (Black)",
+"actual_price":"52990",
+"discount_price":"29990",
+"discount":"-43",
+"brand":"Samsung",
+"name":"UA43AUE60AKLXL",
+"resolution":"4k",
+"search_resolution":"4K",
+"size":"43",
+"refresh_rate":"100Hz",
+"category":"lcd"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/619--Jabh2L._SX522_.jpg",
+"description":"Acer 126 cm (50 inches) V Series 4K Ultra HD Smart QLED Google TV AR50GR2851VQD (Black)",
+"actual_price":"59999",
+"discount_price":"35999",
+"discount":"-40",
+"brand":"Acer",
+"name":"AR50GR2851VQD",
+"resolution":"4K",
+"search_resolution":"4k",
+"size":"50",
+"refresh_rate":"75Hz",
+"category":"lcd"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/5126gXnEjFL._SX522_.jpg",
+"description":"Acer 100 cm (40 inches) Advanced I Series Full HD Smart LED Google TV AR40GR2841FDFL (Black)",
+"actual_price":"29999",
+"discount_price":"18499",
+"discount":"-38",
+"brand":"Acer",
+"name":"AR40GR2841FDFL",
+"resolution":"1080p",
+"search_resolution":"1080",
+"size":"40",
+"refresh_rate":"60Hz",
+"category":"lcd"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/81RmuwZTuNL._SX679_.jpg",
+"description":"Acer DA320Q 31.5 Inch Smart Full HD VA Panel LCD Monitor with LED Backlight I Streaming TV, Netflix, YouTube I Media Playback I Wireless Mirroring I Bluetooth5.0 I HDR10 I Desktop Mode I Remote",
+"actual_price":"18999",
+"discount_price":"13899",
+"discount":"-27",
+"brand":"Acer",
+"name":"AR7569HJIKk89L",
+"resolution":"1920x1080 Pixels",
+"search_resolution":"1080",
+"size":"31.5",
+"refresh_rate":"75Hz",
+"category":"lcd"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/511DmhAgHAL._SX522_.jpg",
+"description":"Acer 80 cm (32 inches) Advanced I Series HD Ready Smart LED Google TV AR32GR2841HDFL (Black)",
+"actual_price":"20999",
+"discount_price":"11999",
+"discount":"-43",
+"brand":"Acer",
+"name":"AR32GR2841HDFL",
+"resolution":"720p",
+"search_resolution":"720",
+"size":"32",
+"refresh_rate":"60Hz",
+"category":"lcd"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/81xHjVQPwAL._SX679_.jpg",
+"description":"Acer EK220Q 21.5 Inch (54.61 cm) Full HD (1920x1080) Pixels VA Panel LCD Monitor with LED Back Light I 1 MS VRB, 144Hz Refresh I 250 Nits I HDMI & VGA Ports with HDMI Cable I Eye Care Features (Black)",
+"actual_price":"7699",
+"discount_price":"6099",
+"discount":"-21",
+"brand":"Acer",
+"name":"AR32GR2298GFFL",
+"resolution":"1920x1080 Pixels",
+"search_resolution":"1080",
+"size":"21.5",
+"refresh_rate":"144Hz",
+"category":"lcd"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/81UrmQEhSuL._SX522_.jpg",
+"description":"MI 108 cm (43 inches) X Series 4K Ultra HD Smart Android LED TV ?L43M7-A2IN (Black)",
+"actual_price":"42999",
+"discount_price":"25999",
+"discount":"-40",
+"brand":"MI",
+"name":"L43M7-A2IN",
+"resolution":"4K",
+"search_resolution":"4k",
+"size":"43",
+"refresh_rate":"100Hz",
+"category":"lcd"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/81xT3no1+6L._SX522_.jpg",
+"description":"MI 80 cm (32 inches) 5A Series HD Ready Smart Android LED TV L32M7-5AIN (Black)",
+"actual_price":"24999",
+"discount_price":"11999",
+"discount":"-52",
+"brand":"MI",
+"name":"Xiaomi TV 5A 32",
+"resolution":"720p",
+"search_resolution":"720",
+"size":"32",
+"refresh_rate":"60Hz",
+"category":"lcd"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/71k7M05go-L._SX522_.jpg",
+"description":"Mi 100 cm (40 inches) Horizon Edition Full HD Android LED TV 4A | L40M6-EI (Black)",
+"actual_price":"29999",
+"discount_price":"21999",
+"discount":"-27",
+"brand":"MI",
+"name":"Mi TV 4A 40 Horizon",
+"resolution":"1080p",
+"search_resolution":"1080",
+"size":"40",
+"refresh_rate":"100Hz",
+"category":"lcd"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/81UT46-gwRL._SX522_.jpg",
+"description":"MI 125 cm (50 inches) X Series 4K Ultra HD Smart Android LED TV L50M7-A2IN (Black)",
+"actual_price":"44999",
+"discount_price":"31999",
+"discount":"-29",
+"brand":"MI",
+"name":"Xiaomi TV X50",
+"resolution":"4K",
+"search_resolution":"4k",
+"size":"50",
+"refresh_rate":"144Hz",
+"category":"lcd"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/71XFK4HWjZL._SX522_.jpg",
+"description":"Karbonn 80 cm (32 inches) Millennium Series HD Ready LED TV KJW32NSHDF (Phantom Black)",
+"actual_price":"16990",
+"discount_price":"7990",
+"discount":"-53",
+"brand":"Karbonn",
+"name":"KJW32NSHDF",
+"resolution":"720p",
+"search_resolution":"720",
+"size":"32",
+"refresh_rate":"75Hz",
+"category":"lcd"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/81oHGrH1PwL._SX355_.jpg",
+"description":"VW 80 cm (32 inches) Frameless Series HD Ready Android Smart LED TV VW32S (Black)",
+"actual_price":"16999",
+"discount_price":"7999",
+"discount":"-53",
+"brand":"VW",
+"name":"VW32S",
+"resolution":"720p",
+"search_resolution":"720",
+"size":"32",
+"refresh_rate":"60Hz",
+"category":"lcd"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/61sDDAOUzSL._SX355_.jpg",
+"description":"KODAK 80 cm (32 inches) 9XPRO Series HD Ready Certified Android LED TV 329X5051 (Black)",
+"actual_price":"17999",
+"discount_price":"10499",
+"discount":"-42",
+"brand":"LODAK",
+"name":"329X5051",
+"resolution":"720p",
+"search_resolution":"720",
+"size":"32",
+"refresh_rate":"75Hz",
+"category":"lcd"
+}/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

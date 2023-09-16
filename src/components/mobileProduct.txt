@@ -1,0 +1,338 @@
+{
+"image":"https://m.media-amazon.com/images/I/61EDXzBH-lL._AC_UY327_FMwebp_QL65_.jpg",
+"description":"TECNO Pova 5 (Amber Gold, 8GB RAM,128GB Storage) | Segment 1st 45W Ultra Fast Charging | 6000mAh Big Battery | 50MP AI Dual Camera | 3D Textured Design | 6.78”FHD+ Display",
+"brand":"Tecno",
+"name":"Pova5",
+"actual_price":"12999",   
+"discount_price":"11999",   
+"discount":"-8",      
+"operating_system":"Android 13.0",
+"technology":"5G",
+"category":"mobile",
+"ram":"8GB",
+"featured":"no",
+"storage":"128GB",
+"__v":0
+}/
+
+{
+"image":"https://m.media-amazon.com/images/I/91L9EF-OEGL._SX679_.jpg",
+"description":"Samsung Galaxy M34 5G (Waterfall Blue, 6GB, 128GB Storage) | 120Hz sAMOLED Display | 50MP Triple No Shake Cam | 6000 mAh Battery | 12GB RAM with RAM Plus | Android 13 | Without Charger",
+"brand":"Samsung",
+"name":"Samsung Galaxy M34 5G",
+"actual_price":"24499",  
+"discount_price":"18999",  
+"discount":"-22",       
+"operating_system":"Android 13.0",
+"technology":"5G",
+"category":"mobile",
+"ram":"6GB",
+"featured":"no",
+"storage":"128GB",
+"__v":0
+}/
+
+{
+"image":"https://m.media-amazon.com/images/I/81LVUqx+4HL._SY741_.jpg",
+"description":"Nokia C22 | 3-Day Battery Life | 6GB RAM (4GB RAM + 2GB Virtual RAM) | 13 MP Dual Rear AI Camera with Night & Portrait Mode | IP52 | Charcoal",
+"brand":"Nokia",
+"name":"Nokia C22",
+"actual_price":"9499",
+"discount_price":"7999",
+"discount":"-16",   
+"operating_system":"Android 13GO",
+"technology":"5G",
+"category":"mobile",
+"ram":"4GB",
+"featured":"no",
+"storage":"128GB",
+"__v":0
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/81RR0TAz+5L._SX679_.jpg",
+"description":"Redmi A2 (Aqua Blue, 4GB RAM, 64GB Storage) | Powerful Octa Core G36 Processor | Upto 7GB RAM | Large 16.5 cm HD+ Display with Massive 5000mAh Battery | 2 Years Warranty [Limited time Offer]",
+"brand":"Redmi",
+"name":"Redmi A2",
+"actual_price":"10999", 
+"discount_price":"7299", 
+"discount":"-34",   
+"operating_system":"Android 13GO,13.0",
+"technology":"5G",
+"category":"mobile",
+"ram":"4GB",
+"featured":"no",
+"storage":"64GB",
+"__v":0
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/81t6Av5DvXL._SX679_.jpg",
+"description":"Samsung Galaxy M04 Dark Blue, 4GB RAM, 64GB Storage | Upto 8GB RAM with RAM Plus | MediaTek Helio P35 Octa-core Processor | 5000 mAh Battery | 13MP Dual Camera",
+"brand":"Samsung",
+"name":"Samsung M04",
+"actual_price":"11999", 
+"discount_price":"8499", 
+"discount":"-29",   
+"operating_system":"Android 12.0",
+"technology":"5G",
+"category":"mobile",
+"ram":"4GB",
+"featured":"no",
+"storage":"64GB",
+"__v":0
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/81ogvU1j6qL._SX679_.jpg",
+"description":"realme narzo N55 (Prime Black, 6GB+128GB) 33W Segment Fastest Charging | Super High-res 64MP Primary AI Camera",
+"brand":"realme",
+"name":"realme narzo N55",
+"actual_price":"14999", 
+"discount_price":"12999", 
+"discount":"-13",  
+"operating_system":"Android 13.0",
+"technology":"5G",
+"category":"mobile",
+"ram":"6GB",
+"featured":"no",
+"storage":"128GB",
+"__v":0
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/4177-fM6ahL._SX300_SY300_QL70_FMwebp_.jpg",
+"description":"realme narzo 50i Prime (Mint Green 4GB RAM+64GB Storage) Octa-core Processor |5000 mAh Battery",
+"brand":"realme",
+"name":"realme narzo 50i Prime",
+"actual_price":"9999",
+"discount_price":"7499",
+"discount":"-2",5  
+"operating_system":"Android 11.0",
+"technology":"5G",
+"category":"mobile",
+"ram":"4GB",
+"featured":"no",
+"storage":"64GB",
+"__v":0
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/812YsUxpyfL._SX679_.jpg",
+"description":"Samsung Galaxy M13 (Midnight Blue, 6GB, 128GB Storage) | 6000mAh Battery | Upto 12GB RAM with RAM Plus",
+"brand":"Samsung",
+"name":"Samsung Galaxy M13",
+"actual_price":"17999", 
+"discount_price":"12999", 
+"discount":"-28",  
+"operating_system":"Android 12.0",
+"technology":"5G",
+"category":"mobile",
+"ram":"6GB",
+"featured":"no",
+"storage":"128GB",
+"__v":0
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/81MZRUuHJIL._SX679_.jpg",
+"description":"Redmi Note 12 4G Mystique Blue 4GB RAM 128GB ROM | 1st Phone with 120Hz Super AMOLED and Snapdragon® 4 Gen 1 | 48MP AI Triple Camera",
+"brand":"Redmi",
+"name":"Redmi Note 12 5G",
+"actual_price":"19999", 
+"discount_price":"16999", 
+"discount":"-15",  
+"operating_system":"MIUI 13",
+"technology":"4G",
+"category":"mobile",
+"ram":"4GB",
+"featured":"no",
+"storage":"128GB",
+"__v":0
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/71V--WZVUIL._SX679_.jpg",
+"description":"OnePlus Nord CE 2 Lite 5G (Black Dusk, 6GB RAM, 128GB Storage)",
+"brand":"OnePlus",
+"name":"OnePlus Nord CE 2 Lite 5G",
+"actual_price":"19999", 
+"discount_price":"17999",  
+"discount":"-15",
+"operating_system":"OxygenOS",
+"technology":"5G",
+"category":"mobile",
+"ram":"6GB",
+"featured":"no",
+"storage":"128GB",
+"__v":0
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/61M0tGMbBPL._SX569_.jpg",
+"description":"iQOO Z6 Lite 5G (Mystic Night, 6GB RAM, 64GB Storage) with Charger | World's First Snapdragon 4 Gen 1 | Best in-Segment 120Hz Refresh Rate | Travel Adaptor Included in The Box",
+"brand":"iQOO",
+"name":"iQOO Z6",
+"actual_price":"19999", 
+"discount_price":"13999", 
+"discount":"-30",
+"operating_system":"Funtouch OS 12 based on Android 12",
+"technology":"5G",
+"category":"mobile",
+"ram":"6GB",
+"featured":"no",
+"storage":"64GB",
+"__v":0
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/41-T2ODZmDL._SX300_SY300_QL70_FMwebp_.jpg",
+"description":"Redmi 12C (Mint Green, 4GB RAM, 64GB Storage) | High Performance Mediatek Helio G85 | Big 17cm(6.71) HD+ Display with 5000mAh(typ) Battery",
+"brand":"Redmi",
+"name":"Redmi 12C",
+"actual_price":"13999", 
+"discount_price":"7699",
+"discount":"-45", 
+"operating_system":"MIUI 13, Android 12.0",
+"technology":"4G",
+"category":"mobile",
+"ram":"4GB",
+"featured":"no",
+"storage":"64GB",
+"__v":0
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/71669TpsvKL._SX679_.jpg",
+"description":"Samsung Galaxy A34 5G (Awesome Violet, 8GB, 128GB Storage) | 48 MP No Shake Cam (OIS) | IP67 | Gorilla Glass 5 | Voice Focus | Without Charger",
+"brand":"Samsung",
+"name":"Samsung Galaxy A34 5G",
+"actual_price":"35499", 
+"discount_price":"30999",
+"discount":"-13", 
+"operating_system":"Android 13.0",
+"technology":"4G",
+"category":"mobile",
+"ram":"8GB",
+"featured":"yes",
+"storage":"128GB",
+"__v":0
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/51oW-QOqhaL._SX679_.jpg",
+"description":"iQOO Z7s 5G by vivo (Pacific Night, 8GB RAM, 128GB Storage) | Ultra Bright AMOLED Display | Snapdragon 695 5G 6nm Processor | 64 MP OIS Ultra Stable Camera | 44WFlashCharge",
+"brand":"iQOO",
+"name":"iQOO Z7s 5G by vivo",
+"actual_price":"24999", 
+"discount_price":"18999", 
+"discount":"-28", 
+"operating_system":"Funtouch OS 13 Based On Android 13",
+"technology":"5G",
+"category":"mobile",
+"ram":"8GB",
+"featured":"yes",
+"storage":"128GB",
+"__v":0
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/61TLDQrtEOL._SX679_.jpg",
+"description":"Vivo Y16 (Drizzling Gold, 4GB RAM, 64GB Storage) with No Cost EMI/Additional Exchange Offers",
+"brand":"Vivo",
+"name":"Y16",
+"actual_price":"15999", 
+"discount_price":"10999", 
+"discount":"-31", 
+"operating_system":"FunTouch OS 12",
+"technology":"4G",
+"category":"mobile",
+"ram":"4GB",
+"featured":"no",
+"storage":"64GB",
+"__v":0
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/61wIPQyViGL._SX679_.jpg",
+"description":"Vivo Y100A 5G (Pacific Blue, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers",
+"brand":"Vivo",
+"name":"Y100A",
+"actual_price":"29999", 
+"discount_price":"23999", 
+"discount":"-20", 
+"operating_system":"Funtouch OS 13",
+"technology":"5G",
+"category":"mobile",
+"ram":"8GB",
+"featured":"no",
+"storage":"128GB",
+"__v":0
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/71waR9n2enL._SX569_.jpg",
+"description":"Vivo V27 5G (Magic Blue, (128GB) (8GB RAM))",
+"brand":"Vivo",
+"name":"V27 5G",
+"actual_price":"36999", 
+"discount_price":"32999", 
+"discount":"-13",
+"operating_system":"Andriod",
+"technology":"5G",
+"category":"mobile",
+"ram":"8GB",
+"featured":"no",
+"storage":"128GB",
+"__v":0
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/61bK6PMOC3L._SX679_.jpg",
+"description":"Apple iPhone 14 (128 GB) - Blue",
+"brand":"Apple",
+"name":"iPhone",
+"actual_price":"79900",  
+"discount_price":"67999", 
+"discount":"-15", 
+"operating_system":"iOS",
+"technology":"5G",
+"category":"mobile",
+"ram":"8GB",
+"featured":"no",
+"storage":"128GB",
+"__v":0
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/71GLMJ7TQiL._SX679_.jpg",
+"description":"Apple iPhone 13 (128GB) - Starlight",
+"brand":"Apple",
+"name":"iPhone",
+"actual_price":"69900", 
+"discount_price":"59999", 
+"discount":"-14",
+"operating_system":"iOS 14",
+"technology":"4G",
+"category":"mobile",
+"ram":"4GB",
+"storage":"128GB",
+"__v":0
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/610pghkO81L._SX679_.jpg",
+"description":"Apple iPhone 14 Pro Max (128 GB) - Space Black",
+"brand":"Apple",
+"name":"iPhone",
+"actual_price":"139900",
+"discount_price":"127999", 
+"discount":"-9", 
+"operating_system":"iOS",
+"technology":"5G",
+"category":"mobile",
+"ram":"4GB",
+"featured":"yes",
+"storage":128GB"",
+"__v":0
+}/

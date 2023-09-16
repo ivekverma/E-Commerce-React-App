@@ -1,0 +1,519 @@
+
+{
+    "image":"https://m.media-amazon.com/images/I/61Y7SfcfMxL._SY741_.jpg",
+"description":"Whirlpool 184 L 2 Star Direct-Cool Single Door Refrigerator (205 WDE PRM 2S SAPPHIRE BLOOM-Z, 2023 Model)",
+"actual_price":"17000",
+"discount_price":"12990",
+"discount":"-24",
+"brand":"Whirlpool",
+"product_dimension":"65.1Dx53.5Wx118.8H",
+"capacity":"184 litres",
+"configuration":"Single",
+"door":"single",
+"category":"refrigerator",
+"rating_star":"2 Star"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/51LPNrDPOUL._SY741_.jpg",
+"description":"Whirlpool 192 L 3 Star Inverter Direct-Cool Single Door Refrigerator (215 VMPRO PRM 3S INV MAGNUM STEEL-Z, Magnum Steel, Auto Defrost Technology, 2023 Model)",
+"actual_price":"17600",
+"discount_price":"15640",
+"discount":"-11",
+"brand":"Whirlpool",
+"product_dimension":"61.8Dx53.6Wx124.5H",
+"capacity":"192 litres",
+"configuration":"Single Door",
+"door":"single",
+"category":"refrigerator",
+"rating_star":"3 Star"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/61aHBoFm8ZL._SY741_.jpg",
+"description":"Whirlpool 259 L 3 Star Intellifresh Inverter Frost Free Double Door Refrigerator (IF INV ELT DF305 GERMAN STEEL(3S)-TL, Grey, 2023 Model)",
+"actual_price":"37500",
+"discount_price":"27990",
+"discount":"-25",
+"brand":"Whirlpool",
+"product_dimension":"65.5Dx56.4Wx171.3H",
+"capacity":"259 litres",
+"configuration":"Standard Double Door",
+"door":"double",
+"category":"refrigerator",
+"rating_star":"3 Star"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/51AzzRLoGBL._SY741_.jpg",
+"description":"Whirlpool 330 L Frost-Free Multi-Door Refrigerator (FP 343D PROTTON ROY, Steel Onyx, 2022 Model)",
+"actual_price":"48300",
+"discount_price":"34449",
+"discount":"-29",
+"brand":"Whirlpool",
+"product_dimension":"60Dx68Wx179H",
+"capacity":"330 litres",
+"configuration":"Full-Sized Freezer-on-Top",
+"door":"multi",
+"category":"refrigerator",
+"rating_star":"5 Star"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/51v+lBS88QL._SY741_.jpg",
+"description":"Whirlpool 360 L 3 Star Frost Free IntelliFresh Convertible Inverter Double Door Refrigerator (IF INV CNV PLATINA 375 (3s) - N, Steel Onyx, Convertible, 2022 Model)",
+"actual_price":"59250",
+"discount_price":"41990",
+"discount":"-29",
+"brand":"Whirlpool",
+"product_dimension":"67.5D x 62W x 176H",
+"capacity":"360 litres",
+"configuration":"Double Door",
+"door":"double",
+"category":"refrigerator",
+"rating_star":"3 Star"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/61T71ciGZ6L._SY741_.jpg",
+"description":"Samsung 653 L Frost Free Convertible 5In1, Digital Inverter Wi-Fi Enabled Side by Side Refrigerator (RS76CG8003S9HL, Refined Inox, 2023 Model)",
+"actual_price":"113000",
+"discount_price":"86990",
+"discount":"-23",
+"brand":"Samsung",
+"product_dimension":"71.6D x 91.2W x 178H",
+"capacity":"653 litres",
+"configuration":"Freezer-on-Top",
+"door":"double",
+"category":"refrigerator",
+"rating_star":"3 Star"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/61TTF88NJUL._SY741_.jpg",
+"description":"Samsung 183 L 3 Star Digital Inverter Direct Cool Single Door Refrigerator (RR20C1723S8/HL, Silver, Elegant Inox, 2023 Model)",
+"actual_price":"18999",
+"discount_price":"14490",
+"discount":"-24",
+"brand":"Samsung",
+"product_dimension":"64D x 53.2W x 118H",
+"capacity":"183 litres",
+"configuration":"Freezer-on-Top",
+"door":"single",
+"category":"refrigerator",
+"rating_star":"3 Star"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/61pZR4rv-WL._SY741_.jpg",
+"description":"Samsung 189 L 5 Star Digital Inverter Direct Cool Single Door Refrigerator (RR21C2H25CR/HL, Camellia Purple, Base Stand with Drawer, 2023 Model)",
+"actual_price":"24999",
+"discount_price":"17890",
+"discount":"-28",
+"brand":"Samsung",
+"product_dimension":"71.6D x 57.8W x 132.5H",
+"capacity":"189 litres",
+"configuration":"Freezer-on-Top",
+"door":"single",
+"category":"refrigerator",
+"rating_star":"5 Star"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/61qIChjrrYL._SY741_.jpg",
+"description":"Samsung 236L 3 Star Digital Inverter Frost-Free Double Door Refrigerator (RT28C3053S8/HL,Elegant Inox , 2023 Model)",
+"actual_price":"37990",
+"discount_price":"25990",
+"discount":"-32",
+"brand":"Samsung",
+"product_dimension":"63.7D x 55.5W x 154.5H",
+"capacity":"236 litres",
+"configuration":"Freezer-on-Top",
+"door":"double",
+"category":"refrigerator",
+"rating_star":"3 Star"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/61TOp2ytwwL._SY741_.jpg",
+"description":"Samsung 183 L 4 Star Digital Inverter Direct Cool Single Door Refrigerator (RR20C1724CU/HL, Camellia Blue 2023 Model)",
+"actual_price":"21999",
+"discount_price":"15890",
+"discount":"-28",
+"brand":"Samsung",
+"product_dimension":"71.1D x 56.8W x 121.6H",
+"capacity":"183 litres",
+"configuration":"Freezer-on-Top",
+"door":"single",
+"category":"refrigerator",
+"rating_star":"4 Star"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/51pgJ6e5TrL._SX679_.jpg",
+"description":"Godrej 564 L Multi Air Flow System, With Advanced Controls Frost Free Side-By-Side Refrigerator(RS EONVELVET 579 RFD PL ST, Platinum Steel)",
+"actual_price":"90000",
+"discount_price":"54990",
+"discount":"-39",
+"brand":"Godrej",
+"product_dimension":"25.3D x 35.8W x 70.3H",
+"capacity":"564 litres",
+"configuration":"Side-by-Side",
+"door":"double",
+"category":"refrigerator",
+"rating_star":"5 Star"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/51vLVJBQV7L._SX679_.jpg",
+"description":"Godrej 223 L 3 Star Convertible Freezer 6-In-1, Nano Shield Technology, Inverter Frost Free Double Door Refrigerator(2023 Model, RT EONVALOR 260C RCIF ST RH, Steel Rush)",
+"actual_price":"38200",
+"discount_price":"22990",
+"discount":"-40",
+"brand":"Godrej",
+"product_dimension":"63.6D x 60.7W x 141H",
+"capacity":"223 litres",
+"configuration":"Double Door",
+"door":"double",
+"category":"refrigerator",
+"rating_star":"3 Star"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/81ZGW7xg1IL._SX679_.jpg",
+"description":"Godrej 180 L 1 Star Advanced Capillary Technology Direct Cool Single Door Refrigerator (2023 Model, RD 190A WHF WN RD, Wine Red)",
+"actual_price":"15990",
+"discount_price":"11290",
+"discount":"-29",
+"brand":"Godrej",
+"product_dimension":"62.2D x 57.6W x 118H",
+"capacity":"180 litres",
+"configuration":"Single Door",
+"door":"single",
+"category":"refrigerator",
+"rating_star":"1 Star"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/71vTVoOSc2L._SX679_.jpg",
+"description":"Godrej 180 L 5 Star Inverter, Turbo Cooling Technology, 24 Days Farm Freshness Direct Cool Single Door Refrigerator With Base Drawer(2023 Model, RD EDGENEO 207E TDI BH WN, Blush Wine)",
+"actual_price":"24990",
+"discount_price":"15990",
+"discount":"-36",
+"brand":"Godrej",
+"product_dimension":"66.5D x 57.5W x 130H",
+"capacity":"180 litres",
+"configuration":"Freezer-on-Top",
+"door":"single",
+"category":"refrigerator",
+"rating_star":"5 Star"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/71tHXWvM+NL._SY741_.jpg",
+"description":"Godrej 202 L 5 Star Advanced Inverter, Jumbo Vegetable Tray Direct Cool Single Door Refrigerator With Base Drawer(2023 Model, RD 210E TDI MN BL, Marine Blue)",
+"actual_price":"26990",
+"discount_price":"18490",
+"discount":"-29",
+"brand":"Godrej",
+"product_dimension":"66.7Dx57.7Wx134.2H",
+"capacity":"202 litres",
+"configuration":"Single Door",
+"door":"single",
+"category":"refrigerator",
+"rating_star":"5 Star"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/71WMk6VfwqL._SX679_.jpg",
+"description":"Haier 240 L 2 Star Frost Free Double Door Top Mount Refrigerator (2023 Model, HEF-252DS-P, Dazzle Steel, Convertible)",
+"actual_price":"31490",
+"discount_price":"21990",
+"discount":"-30",
+"brand":"Haier",
+"product_dimension":"61.5Dx54.8Wx156H",
+"capacity":"240 litres",
+"configuration":"Freezer-on-Top",
+"door":"double",
+"category":"refrigerator",
+"rating_star":"2 Star"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/513Fzyfyn7L._SX679_.jpg",
+"description":"Haier 531 L Inverter Frost-Free Side-by-Side Refrigerator (HRB-550KG, Black,Convertible)",
+"actual_price":"128990",
+"discount_price":"79990",
+"discount":"-38",
+"brand":"Haier",
+"product_dimension":"66.6D x 83.3W x 180.4H",
+"capacity":"531 litres",
+"configuration":"Side-by-Side",
+"door":"multi",
+"category":"refrigerator",
+"rating_star":"5 Star",
+"featured":"yes"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/71cnk+lOqDL._SX679_.jpg",
+"description":"Haier 325 L 3 Star Frost Free Inverter Double Door Bottom Mount Refrigerator (2023 Model, HEB-333DS-P, Dazzle Steel, Convertible)",
+"actual_price":"50990",
+"discount_price":"34990",
+"discount":"-31",
+"brand":"Haier",
+"product_dimension":"66.5D x 62.3W x 164H",
+"capacity":"325 litres",
+"configuration":"Full-Sized Freezer-on-Top",
+"door":"double",
+"category":"refrigerator",
+"rating_star":"3 Star"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/618xIGC9vmL._SX679_.jpg",
+"description":"LG 242 L 3 Star Smart Inverter Frost-Free Double Door Refrigerator (GL-I292RPZX, Shiny Steel, Door Cooling+, Gross Volume- 260 L)",
+"actual_price":"37099",
+"discount_price":"25990",
+"discount":"-30",
+"brand":"LG",
+"product_dimension":"66.9D x 58.5W x 147.5H",
+"capacity":"242 litres",
+"configuration":"Full-Sized Freezer-on-Top",
+"door":"double",
+"category":"refrigerator",
+"rating_star":"3 Star"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/71zlvqmoKzL._SL1500_.jpg",
+"description":"LG 185 L 5 Star Inverter Direct-Cool Single Door Refrigerator (GL-D201ASCU, Scarlet Charm, Base stand with drawer)",
+"actual_price":"22199",
+"discount_price":"16990",
+"discount":"-23",
+"brand":"LG",
+"product_dimension":"65D x 53.4W x 127.7H",
+"capacity":"185 litres",
+"configuration":"Freezer-on-Top",
+"door":"single",
+"category":"refrigerator",
+"rating_star":"5 Star"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/61nIKNi1EeL._SX679_.jpg",
+"description":"LG 655 L Frost-Free Inverter Side-By-Side Refrigerator (2023 Model, GL-B257HDSY, Dazzle Steel, Express Freeze | Multi Air-Flow)",
+"actual_price":"120690",
+"discount_price":"75990",
+"discount":"-37",
+"brand":"LG",
+"product_dimension":"66.6D x 93.3W x 180.4H",
+"capacity":"655 litres",
+"configuration":"Side-by-Side",
+"door":"multi",
+"category":"refrigerator",
+"rating_star":"4 Star",
+"featured":"yes"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/719R1YwEHFL._SX679_.jpg",
+"description":"LG 343 L 3 Star Frost-Free Smart Inverter Double Door Refrigerator (2023 Model, GL-S382SDSX, Dazzle Steel, Convertible with Express Freeze)",
+"actual_price":"50799",
+"discount_price":"41990",
+"discount":"-17",
+"brand":"LG",
+"product_dimension":"60Dx71Wx172H",
+"capacity":"343 litres",
+"configuration":"Freezer-on-Top",
+"door":"double",
+"category":"refrigerator",
+"rating_star":"3 Star"
+}/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

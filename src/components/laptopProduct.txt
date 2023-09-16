@@ -1,0 +1,527 @@
+
+
+{
+    "image":"https://m.media-amazon.com/images/I/71UgwUu-j5L._SX522_.jpg",
+"description":"ASUS Vivobook 14, Intel Core i3-1115G4 11th Gen, 14' (35.56 cm) FHD, Thin and Light Laptop (16GB/512GB/Win11/Office 2021/Fingerprint/Silver/1.6 kg), X415EA-EK344WS",
+"brand":"ASUS",
+"name":"Vivobook 14",
+"actual_price":"59900",
+"discount_price":"42990",
+"discount":"-28",
+"operating_system":"Windows 11 Home",
+"category":"laptop",
+"size":"14",
+"ram":"16GB",
+"storage":"512GB SSD"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/51u9Q4IEnsL._SX679_.jpg",
+"description":"Dell 14 AMD Laptop, Ryzen R5-5500U/8GB/512GB/14.0' (35.56cm) FHD Display with TÜV Rheinland Certified Comfortview to Reduce Harmful Blue Light/Windows 11 + MSO'21/15 Month McAfee/Carbon Black/1.48kg",
+"brand":"Dell",
+"name":"Vostro 3425",
+"actual_price":"61204",
+"discount_price":"43990",
+"discount":"-28",
+"operating_system":"Windows 11 Home",
+"category":"laptop",
+"size":"14",
+"ram":"8GB",
+"storage":"512GB SSD"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/813VitoS7gL._SX679_.jpg",
+"description":"HP Laptop 15s, 12th Gen Intel Core i5-1235U, 15.6-inch (39.6 cm), FHD, 8GB DDR4, 512GB SSD, Intel Iris Xe Graphics, Backlit KB, Thin & Light (Win 11, MSO 2021, Silver, 1.69 kg), fq5111TU",
+"brand":"HP",
+"name":"15s",
+"actual_price":"70235",
+"discount_price":"54990",
+"discount":"-22",
+"operating_system":"Windows 11 Home",
+"category":"laptop",
+"size":"15.6",
+"ram":"8GB",
+"storage":"512GB SSD"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/71jG+e7roXL._SX679_.jpg",
+"description":"Apple 2020 MacBook Air Laptop M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Space Grey",
+"brand":"Apple",
+"name":"MacBook Air",
+"actual_price":"92990",
+"discount_price":"81990",
+"discount":"-12",
+"operating_system":"Mac OS",
+"category":"laptop",
+"size":"13",
+"ram":"8GB",
+"storage":"256GB SSD"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/51Bxs7x4X3L._SX679_.jpg",
+"description":"Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 15.6" (39.62cm) FHD Thin & Light Laptop (16GB/512GB SSD/Windows 11/Office 2021/Backlit/2Yr Warranty/3months Game Pass/Arctic Grey/1.63Kg), 82RK00LXIN",
+"brand":"Lenovo",
+"name":"IdeaPad 315IAU7",
+"actual_price":"97490",
+"discount_price":"58990",
+"discount":"-39",
+"operating_system":"Windows 11 Home",
+"category":"laptop",
+"size":"15.6",
+"ram":"16GB",
+"storage":"512GB SSD"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/81x3tKnUBaL._SX679_.jpg",
+"description":"Acer Aspire 5 13th Gen Intel Core i5 (16 GB RAM/512 GB SSD/Windows 11 Home/MS Office), A515-58M 13.3" Full HD IPS 45% NTSC Display, Steel Gray, 1.75 KG",
+"brand":"Asus",
+"name":"Aspire 5",
+"actual_price":"77999",
+"discount_price":"56990",
+"discount":"-27",
+"operating_system":"Windows 11 Home",
+"category":"laptop",
+"size":"13.3",
+"ram":"16GB",
+"storage":"512GB SSD"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/71Dp4q8PbiL._SX679_.jpg",
+"description":"HP Laptop 15s, 11th Gen Intel Core i3-1115G4, 12-inch (30 cm), FHD, 8GB DDR4, 512GB SSD, Intel UHD Graphics, Thin & Light, Dual Speakers (Win 11, MSO 2021, Silver, 1.69 kg), fq2673TU",
+"brand":"HP",
+"name":"15s-fq2673TU",
+"actual_price":"51812",
+"discount_price":"40990",
+"discount":"-21",
+"operating_system":"Windows 11 Home",
+"category":"laptop",
+"size":"12",
+"ram":"8GB",
+"storage":"512GB SSD"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/41-ZtZ5kpaL._SX300_SY300_QL70_FMwebp_.jpg",
+"description":"Dell 15 Laptop, Intel Core i5-1135G7/8GB/1TB+256GB SSD/15.6"(39.62cm) FHD, Comfortview to Reduce Harmful Blue Light, Mobile Connect/Backlit KB + FPR/Win 11+MSO'21/15 Month McAfee/Black/1.69kg",
+"brand":"Dell",
+"name":"Vostro 3510",
+"actual_price":"67749",
+"discount_price":"50990",
+"discount":"-25",
+"operating_system":"Windows 11 Home",
+"category":"laptop",
+"size":"15.6",
+"ram":"8GB",
+"storage":"256GB SSD"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/510pfCNfE+L._SX679_.jpg",
+"description":"Lenovo ThinkPad E14 AMD Ryzen 5 7530U 14" (35.56 cm) WUXGA IPS 300 Nits Thin and Light Laptop (16GB RAM/512GB SSD/Windows 11 Home/AMD Radeon Graphics/Backlit Keyboard/FPR/Black/1.41 kg), 21JRS00U00",
+"brand":"Lenovo",
+"name":"E14 Gen 5 AMD",
+"actual_price":"95111",
+"discount_price":"59990",
+"discount":"-37",
+"operating_system":"Windows 11 Home",
+"category":"laptop",
+"size":"14",
+"ram":"16GB",
+"storage":"512GB SSD"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/71eXNIDUGjL._SX679_.jpg",
+"description":"Apple 2022 MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Silver",
+"brand":"Apple",
+"name":"MacBook Air",
+"actual_price":"119990",
+"discount_price":"106990",
+"discount":"-11",
+"operating_system":"Mac OS",
+"category":"laptop",
+"size":"13.6",
+"ram":"8GB",
+"storage":"256GB SSD"
+"featured":"yes",
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/710NRdecQtL._SX679_.jpg",
+"description":"ASUS TUF Gaming F15 (2021), 15.6" (39.62 cms) FHD 144Hz, Intel Core i5-10300H 10th Gen, GTX 1650 4GB Graphics, Gaming Laptop (8GB RAM/512GB NVMe SSD/Windows 11/Black/2.30 Kg), FX506LH-HN258W",
+"brand":"ASUS",
+"name":"TUF Gaming F15",
+"actual_price":"74990",
+"discount_price":"60990",
+"discount":"-19",
+"operating_system":"Windows 11 Home",
+"category":"laptop",
+"size":"15.6",
+"ram":"8GB",
+"storage":"512GB SSD"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/81UFHe-hH5L._SX679_.jpg",
+"description":"Apple 2023 MacBook Air laptop with M2 chip: 38.91cm (15.3 inch) Liquid Retina display, 8GB RAM 512GB SSD storage, backlit keyboard, 1080p FaceTime HD camera,Touch ID. Works with iPhone/iPad; Starlight",
+"brand":"Apple",
+"name":"MacBook Air",
+"actual_price":"154990",
+"discount_price":"149990",
+"discount":"-3",
+"operating_system":"Mac OS",
+"category":"laptop",
+"size":"15.3",
+"ram":"8GB",
+"storage":"512GB SSD"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/811aBK9bUFL._SX679_.jpg",
+"description":"HP Laptop 15s, Intel Celeron N4500, 15.6 inch(39.6cm) HD Laptop (8GB RAM,512GB SSD,Intel UHD Graphics,Dual Speakers,Numeric Keypad,Alexa,Win 11,MSO 21,Natural Silver,1.69 Kgs) 15s-fq3071TU",
+"brand":"HP",
+"name":"15s-fq3071TU",
+"actual_price":"33990",
+"discount_price":"28990",
+"discount":"-15",
+"operating_system":"Windows 11 Home",
+"category":"laptop",
+"size":"15.6",
+"ram":"8GB",
+"storage":"512GB SSD"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/51hEf-tkHrL._SX679_.jpg",
+"description":"Dell 14 Laptop, Intel i5-1135G7/8GB/512GB SSD/14.0"(35.56cm) FHD Display + TUV Rheinland Certified Comfort View to Reduce Harmful Blue Light Emissions/Windows11+MSO'21/15 Month McAfee/Black/1.48kg",
+"brand":"Dell",
+"name":"Vostro 3420",
+"actual_price":"69211",
+"discount_price":"49490",
+"discount":"-28",
+"operating_system":"Windows 11 Home",
+"category":"laptop",
+"size":"14",
+"ram":"8GB",
+"storage":"512GB SSD"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/71LbAXZy9jL._SX679_.jpg",
+"description":"Lenovo IdeaPad Gaming 3 Intel Core i5 12th Gen 17" (42.5cm) FHD IPS Gaming Laptop (16GB/512GB SDD/4GB NVIDIA RTX 3050/120Hz/Win11/Office 2021/Backlit/3months Game Pass/Onyx Grey/2.32Kg), 82S9014LIN",
+"brand":"Lenovo",
+"name":"IdeaPad Gaming 3",
+"actual_price":"94690",
+"discount_price":"69990",
+"discount":"-26",
+"operating_system":"Windows 11 Home",
+"category":"laptop",
+"size":"17",
+"ram":"16GB",
+"storage":"512GB SSD"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/716x1581IrL._SX522_.jpg",
+"description":"ASUS [SmartChoice] VivoBook 14, Intel Core i3-1115G4 11th Gen, 14" (29 cm) FHD, Thin and Light Laptop (8GB/512GB SSD/MSO'21/Win11 Home/Integrated Graphics/FP Reader/Silver/1.6 kg), X415EA-EK322WS",
+"brand":"ASUS",
+"name":"Vivobook 14",
+"actual_price":"49990",
+"discount_price":"37990",
+"discount":"-24",
+"operating_system":"Windows 11 Home",
+"category":"laptop",
+"size":"11.6",
+"ram":"8GB",
+"storage":"512GB SSD"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/61G5EPaVmXL._SX679_.jpg",
+"description":"Dell 14 Laptop, Intel Core i3-1115G4/8GB/512GB/14.0"(35.56cm) FHD Display, TÜV Rheinland Certified Comfortview Reduce Harmful Blue Light Emissions/Win 11+MSO'21/15 Month McAfee/Carbon Black/1.48kg",
+"brand":"Dell",
+"name":"Vostro 3420",
+"actual_price":"49215",
+"discount_price":"37990",
+"discount":"-23",
+"operating_system":"Windows 11 Home",
+"category":"laptop",
+"size":"14",
+"ram":"8GB",
+"storage":"512GB SSD"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/710TJuHTMhL._SX679_.jpg",
+"description":"Apple 2022 MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Starlight",
+"brand":"Apple",
+"name":"MacBook Air",
+"actual_price":"119990",
+"discount_price":"107990",
+"discount":"-10",
+"operating_system":"Mac OS",
+"category":"laptop",
+"size":"13.6",
+"ram":"8GB",
+"storage":"256GB SSD"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/51pEhVQaaDL._SX522_.jpg",
+"description":"Lenovo IdeaPad Slim 3 Intel Core i5 11th Gen 12" (30cm) FHD Laptop (16GB/512GB SSD/Win 11/Office 2021/2 Years Warranty/Alexa Built-in/3 Month Game Pass/Arctic Grey/1.65Kg), 82H802XXIN",
+"brand":"Lenovo",
+"name":"IdeaPad 3 15ITL6",
+"actual_price":"80290",
+"discount_price":"50990",
+"discount":"-36",
+"operating_system":"Windows 11 Home",
+"category":"laptop",
+"size":"12",
+"ram":"16GB",
+"storage":"512GB SSD"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/71PCTno65CL._SX522_.jpg",
+"description":"HP Laptop 14s, 12th Gen Intel Core i5-1235U, 14-inch (35.6 cm), FHD, 16GB DDR4, 512GB SSD, Intel Iris Xᵉ graphics, Backlit KB, Thin & light, Dual speakers (Win 11, MSO 2021, Silver, 1.46 kg), dy5005TU",
+"brand":"HP",
+"name":"14s-dy5005TU",
+"actual_price":"75999",
+"discount_price":"61999",
+"discount":"-18",
+"operating_system":"Windows 11 Home",
+"category":"laptop",
+"size":"15.6",
+"ram":"16GB",
+"storage":"512GB SSD"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/71lYhcc++AL._SX679_.jpg",
+"description":"ASUS [Smart Choice] Vivobook 15, Intel Celeron N4020, 17" (42.5 cms) HD, Thin and Light Laptop (8GB/512GB SSD/Integrated Graphics/Windows 11/Office 2021/Fingerprint/Silver/1.8 kg), X515MA-BR024WS",
+"brand":"AUSS",
+"name":"Vivobook 15",
+"actual_price":"38990",
+"discount_price":"30990",
+"discount":"-21",
+"operating_system":"Windows 11 Home",
+"category":"laptop",
+"size":"17",
+"ram":"8GB",
+"storage":"512GB SSD"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/618M+ksuptL._SX679_.jpg",
+"description":"Apple 2023 MacBook Pro Laptop M2 Pro chip with 12‑core CPU and 19‑core GPU: 33.74 cm (16.2-inch), 16GB Unified Memory, 512GB SSD Storage. Works with iPhone/iPad; Silver",
+"brand":"Apple",
+"name":"MAcBook Pro",
+"actual_price":"249990",
+"discount_price":"229990",
+"discount":"-8",
+"operating_system":"Mac OS",
+"category":"laptop",
+"size":"16.2",
+"ram":"32GB",
+"storage":"512GB SSD"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/81y84xvX86L._SX679_.jpg",
+"description":"Dell Inspiron 5430 13th Gen Laptop, Intel i7-1360P/16GB/1TB SSD/11.6" (29 CMs) FHD+ WVA AG with Comfortview Support 250 nits/Backlit KB+FPR/Win 11+MSO'21/15 Month McAfee/Platinum Silver/1.59KGs",
+"brand":"Dell",
+"name":"Inspiron 14 5430",
+"actual_price":"101514",
+"discount_price":"86490",
+"discount":"-15",
+"operating_system":"Windows 11 Home",
+"category":"laptop",
+"size":"11.6",
+"ram":"16GB",
+"storage":"1TB SSD"
+}/
+
+{
+    "image":"https://m.media-amazon.com/images/I/71V2Q8g87XL._SX679_.jpg",
+"description":"HP 250 G8 Notebook PC, 11th Gen Intel Core i3-1115G4 15inch(39.6cm) HD Laptop/8GB RAM/256GB SSD+1TB HDD/Num Kaypad/Intel UHD Graphics/DOS /1.74kg 7M6L7PA",
+"brand":"HP",
+"name":"HP 250 G8",
+"actual_price":"41890",
+"discount_price":"32890",
+"discount":"-21",
+"operating_system":"DOS",
+"category":"laptop",
+"size":"15.6",
+"ram":"8GB",
+"storage":"256GB SSD"
+}/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
